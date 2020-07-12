@@ -1,0 +1,5 @@
+*.py[co]
+.mypy_cache
+*.egg-info
+dist
+build
